@@ -46,6 +46,22 @@ The initial phase of the Data Cleaning and Preparations, will perform the follow
 
 EDA involves the exploring of the Data used during the cause of training
 
-- summation of total amount generated
-- summation of the total average amount generated
-- 
+- what is the total sum of amount generated?
+
+- what is of the total average of the amount generated?
+
+- what is the number of regions?
+
+
+  ### DATA ANALYSIS
+
+  This is where we include some basic lines codes or queries used during analysis
+
+
+  - CODES
+ 
+    ``` SQL
+    SELECT * FROM EMPLOYEE
+    WHERE CONDITION = 'TRUE'
+
+    
