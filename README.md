@@ -3,6 +3,24 @@
 
 ## PROJECT TITLE : Journey into Data Analysis
 
+PROJECT OVERVIEW [PROJECT OVERVIEW]
+(#project-overview)
+
+DATA SOURCES
+
+TOOLS USED
+
+DATA CLEANING AND PREPARATIONS
+
+EXPLORATORY DATA ANALYSIS
+
+DATA ANALYSIS
+
+DATA VISUALIZATION
+
+TABLES
+
+
 
 ### PROJECT OVERVIEW 
 
@@ -67,5 +85,17 @@ EDA involves the exploring of the Data used during the cause of training
 
 ### DATA VISUALIZATION
 
+![IMG-20241004-WA0252](https://github.com/user-attachments/assets/1c33db3f-4ba7-4360-87a6-ac9437954e37)
 
-    
+![IMG-20241004-WA0258](https://github.com/user-attachments/assets/f0b82bce-0670-44d5-beb4-77313a13f4d1)
+
+💲
+💻
+😃
+
+### TABLES
+|Heading 1|Heading 2|Heading 3|
+|.........|.........|.........|
+|Table 1|Table 2| Table 3|
+
+
