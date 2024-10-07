@@ -19,7 +19,7 @@ PROJECT OVERVIEW
 
 [DATA VISUALIZATION](#data-visualization)
 
-[TABLES](#tables)
+
 
 
 
@@ -94,7 +94,7 @@ EDA involves the exploring of the Data used during the cause of training
 💻
 😃
 
-### TABLES
+
 
 |Heading 1|Heading 2|Heading 3|
 |.........|.........|.........|
