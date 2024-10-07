@@ -64,4 +64,8 @@ EDA involves the exploring of the Data used during the cause of training
     SELECT * FROM EMPLOYEE
     WHERE CONDITION = 'TRUE'
 
+
+### DATA VISUALIZATION
+
+
     
