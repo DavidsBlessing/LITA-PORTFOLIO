@@ -3,22 +3,23 @@
 
 ## PROJECT TITLE : Journey into Data Analysis
 
-PROJECT OVERVIEW [PROJECT OVERVIEW]
-(#project-overview)
+PROJECT OVERVIEW
 
-DATA SOURCES
+[PROJECT OVERVIEW](#project-overview)
 
-TOOLS USED
+[DATA SOURCES](#data-source)
 
-DATA CLEANING AND PREPARATIONS
+[TOOLS USED](#tools-used)
 
-EXPLORATORY DATA ANALYSIS
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparation)
 
-DATA ANALYSIS
+[EXPLORATORY DATA ANALYSIS](#exploration-data-analysis)
 
-DATA VISUALIZATION
+[DATA ANALYSIS](#data-analysis)
 
-TABLES
+[DATA VISUALIZATION](#data-visualization)
+
+[TABLES](#tables)
 
 
 
