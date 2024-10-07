@@ -7,11 +7,11 @@ PROJECT OVERVIEW
 
 [PROJECT OVERVIEW](#project-overview)
 
-[DATA SOURCES](#data-source)
+[DATA SOURCES](#data-sources)
 
 [TOOLS USED](#tools-used)
 
-[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparation)
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
 
 [EXPLORATORY DATA ANALYSIS](#exploration-data-analysis)
 
